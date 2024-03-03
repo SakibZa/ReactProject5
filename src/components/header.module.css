@@ -1,0 +1,14 @@
+.logo
+{
+    width:150px;
+    height:80px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:50%;
+    margin-top:2%;
+    margin-left:19%;
+    border-bottom: 2px solid grey;
+}

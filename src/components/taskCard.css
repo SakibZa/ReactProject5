@@ -1,0 +1,11 @@
+.Taskcard{
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+    width:40%;
+    padding-left:18%;
+    box-sizing: border-box;
+    margin-left:25%;
+    margin-top:2%;
+
+}

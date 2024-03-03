@@ -1,0 +1,30 @@
+.addTask{
+      display: flex;
+      justify-content: center;
+      margin-top: 1%;
+}
+.addTask button{
+    background-color: green;
+}
+#reset{
+    background-color: red;
+}
+form{
+    
+  
+}
+form label{
+    margin: 1%;
+    box-sizing: border-box;
+    font-size: 20px;
+    color:lime
+}
+form input 
+{
+    margin: 1%;
+    color:black;
+}
+form button{
+   margin-left:35%;
+   margin-top:2%;
+}
